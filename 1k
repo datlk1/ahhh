@@ -1,5 +1,5 @@
 -- URL của script mã hóa
-local encodedScriptUrl = ""
+local encodedScriptUrl = "https://raw.githubusercontent.com/datlk1/ahhh/refs/heads/main/1"
 
 -- Tải script mã hóa từ URL
 local encodedScript = game:HttpGet(encodedScriptUrl)
